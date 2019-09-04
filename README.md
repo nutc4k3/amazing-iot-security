@@ -1,4 +1,4 @@
-# amazing-iot
+# amazing-iot-security
 A list of lists involving IoT security in general.
 
 
