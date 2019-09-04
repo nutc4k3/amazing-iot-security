@@ -22,6 +22,7 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
     - http://index-of.es/Varios-2/The%20Hardware%20Hacker.pdf
     - https://www.nicolascollins.com/texts/originalhackingmanual.pdf
     - https://beginners.re/RE4B-EN.pdf
+    - https://www.amazon.com/IoT-Hackers-Handbook-Practical-Internet/dp/1484242998
 
 5. YouTube Channels
 
