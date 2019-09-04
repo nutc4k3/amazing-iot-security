@@ -1,5 +1,5 @@
-# amazing-iot-security
-A list of lists involving IoT security in general.
+# amazing-iot-security 
+A list of lists involving IoT security in general.🇧🇷 🇺🇸 
 
 
 1. My Blog in portuguese :3
