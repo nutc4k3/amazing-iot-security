@@ -21,6 +21,7 @@ A list of lists involving IoT security in general.
     - https://bunniefoo.com/nostarch/HackingTheXbox_Free.pdf
     - http://index-of.es/Varios-2/The%20Hardware%20Hacker.pdf
     - https://www.nicolascollins.com/texts/originalhackingmanual.pdf
+    - https://beginners.re/RE4B-EN.pdf
 
 5. YouTube Channels
 
