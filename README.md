@@ -4,7 +4,7 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
 
 1. Blogs/Sites
 
-    - https://medium.com/@nutsaboutsec (my blog in portuguese :3)
+    - https://medium.com/nutsaboutsec (my blog in portuguese :3)
     - https://cjhackerz.net
     
     - Shodan Dorks:
