@@ -58,6 +58,9 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
     - Android Security Bulletin (2015-2020)
       https://source.android.com/security/bulletin
       
+    - checkm8: an unpatchable bootrom exploit for hundreds of millions of iOS devices (2019)
+      https://twitter.com/axi0mX/status/1177542201670168576
+      
     - Opening Pandora’s Box through ATFuzzer: Dynamic Analysis of AT Interface for Android Smartphones (2019)
       https://github.com/Imtiazkarimik23/ATFuzzer
       
