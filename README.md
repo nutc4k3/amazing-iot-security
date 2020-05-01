@@ -71,9 +71,6 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
 	- ATtention Spanned: Comprehensive Vulnerability Analysis ofAT Commands Within the Android Ecosystem (2018)
       https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-tian.pdf
       
-	- Exploiting Android Devices Running Insecure Remote ADB Service (2018)
-      https://blog.usejournal.com/exploiting-android-devices-running-insecure-remote-adb-service-4490cc6a2282
-      
 	- MTPwn (2017)
       https://github.com/smeso/MTPwn
       
