@@ -99,4 +99,4 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
    - Exploiting Smart-Phone USB Connectivity For Fun And Profit (2011)  
       https://media.blackhat.com/bh-dc-11/Stavrou-Wang/BlackHat_DC_2011_Stavrou_Zhaohui_USB_exploits-Slides.pdf
       
-#### PoS Security Resources
+#### 7.2 PoS Security Resources
