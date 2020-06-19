@@ -23,29 +23,23 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
     - https://t.me/iotsecurity1011
 
 4. Books
-
-    - https://bunniefoo.com/nostarch/HackingTheXbox_Free.pdf
-    - http://index-of.es/Varios-2/The%20Hardware%20Hacker.pdf
-    - https://www.nicolascollins.com/texts/originalhackingmanual.pdf
-    - https://beginners.re/RE4B-EN.pdf
-    - https://www.amazon.com/IoT-Hackers-Handbook-Practical-Internet/dp/1484242998
+    
+    - [The Hardware Hacker: Adventures in Making and Breaking Hardware](http://index-of.es/Varios-2/The%20Hardware%20Hacker.pdf)
+    - [Hardware Hacking - Nicolas Collins](https://www.nicolascollins.com/texts/originalhackingmanual.pdf)
+    - [Reverse Engineering for Beginners - Dennis Yurichev](https://beginners.re/RE4B-EN.pdf)
+    - [The IoT Hacker's Handbook: A Practical Guide to Hacking the Internet of Things](https://www.amazon.com/IoT-Hackers-Handbook-Practical-Internet/dp/1484242998)
 
 5. YouTube Channels
 
-    - Andreas Spiess
-      https://www.youtube.com/channel/UCu7_D0o48KbfhpEohoP7YSQ
+    - [Andreas Spiess](https://www.youtube.com/channel/UCu7_D0o48KbfhpEohoP7YSQ)
 
-    - Hackaday
-      https://www.youtube.com/channel/UCnv0gfLQFNGPJ5MHSGuIAkw
+    - [Hackaday](https://www.youtube.com/channel/UCnv0gfLQFNGPJ5MHSGuIAkw)
 
-    - Great Scott
-      https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ
+    - [Great Scott](https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ)
 
-    - Seytonic
-      https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA
+    - [Seytonic](https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA)
 
-    - Defcon
-      https://www.youtube.com/user/DEFCONConference
+    - [Defcon](https://www.youtube.com/user/DEFCONConference)
 
 6. Other resources
 
