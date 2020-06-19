@@ -1,7 +1,7 @@
 # amazing-iot-security 
 A list of lists involving IoT security in general 🇧🇷 🇺🇸 
 
-1. Blogs/Sites
+### 1. Blogs/Sites
 
    - https://medium.com/nutsaboutsec (my blog in portuguese :3)
    - https://cjhackerz.net
@@ -10,17 +10,17 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
    - http://www.grandideastudio.com/
    - https://azeria-labs.com/
 
-2. Lists
+### 2. Lists
 
    - https://github.com/V33RU/IoTSecurity101
    - https://github.com/nebgnahz/awesome-iot-hacks
 
-3. Groups
+### 3. Groups
 
    - https://t.me/hardwareHackingBrasil
    - https://t.me/iotsecurity1011
 
-4. Books
+### 4. Books
     
    - [The Hardware Hacker: Adventures in Making and Breaking Hardware](http://index-of.es/Varios-2/The%20Hardware%20Hacker.pdf)
     
@@ -30,7 +30,7 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
     
    - [The IoT Hacker's Handbook: A Practical Guide to Hacking the Internet of Things](https://www.amazon.com/IoT-Hackers-Handbook-Practical-Internet/dp/1484242998)
 
-5. YouTube Channels
+### 5. YouTube Channels
 
    - [Andreas Spiess](https://www.youtube.com/channel/UCu7_D0o48KbfhpEohoP7YSQ)
 
@@ -42,15 +42,15 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
 
    - [Defcon](https://www.youtube.com/user/DEFCONConference)
     
-6.Shodan Dorks:
+### 6. Shodan Dorks:
 
    - http://pentestit.com/shodan-queries/?PageSpeed=noscript
    - https://github.com/robocyber/Shodan-Dorks
    - https://twitter.com/i/moments/924862201667702784 (Moshe Zioni)
     
-7.Specific Topics
+### 7. Other Topics:
 
-### Mobile Devices USB known vulns:
+#### 7.1 Mobile Devices USB known vulns:
     
    - Android Security Bulletin (2015-2020)  
       https://source.android.com/security/bulletin
@@ -99,4 +99,4 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
    - Exploiting Smart-Phone USB Connectivity For Fun And Profit (2011)  
       https://media.blackhat.com/bh-dc-11/Stavrou-Wang/BlackHat_DC_2011_Stavrou_Zhaohui_USB_exploits-Slides.pdf
       
-### PoS Security Resources
+#### PoS Security Resources
