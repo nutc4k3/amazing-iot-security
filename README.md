@@ -11,6 +11,8 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
    - https://azeria-labs.com/
    - https://fredericb.info/
    - https://www.semecayounexploit.com/
+   - https://owasp.org/www-project-embedded-application-security/
+   - https://github.com/scriptingxss/embeddedappsec
 
 ### 2. Lists
 
