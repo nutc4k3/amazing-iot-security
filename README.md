@@ -9,6 +9,8 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
    - https://hackaday.com/
    - http://www.grandideastudio.com/
    - https://azeria-labs.com/
+   - https://fredericb.info/
+   - https://www.semecayounexploit.com/
 
 ### 2. Lists
 
