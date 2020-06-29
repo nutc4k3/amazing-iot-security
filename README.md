@@ -42,11 +42,23 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
 
    - [Defcon](https://www.youtube.com/user/DEFCONConference)
     
-### 6. Shodan Dorks:
+### 6. Helpful Tools/Ticks:
+
+#### 6.1 Shodan Dorks:
 
    - http://pentestit.com/shodan-queries/?PageSpeed=noscript
    - https://github.com/robocyber/Shodan-Dorks
    - https://twitter.com/i/moments/924862201667702784 (Moshe Zioni)
+   
+#### 6.2 Tools:
+
+   - [qiling](https://github.com/qilingframework) (**highly recommend!**)
+   
+   - [angr](https://angr.io/)
+   
+   - [qemu](https://www.qemu.org/)
+   
+   - [pwntools](https://github.com/Gallopsled/pwntools)
     
 ### 7. Other Topics:
 
