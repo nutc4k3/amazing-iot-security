@@ -74,53 +74,72 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
     
 ### 7. Other Topics:
 
-#### 7.1 Mobile Devices USB known vulns:
+#### 7.1 Mobile Devices USB known vulns and links:
     
-   - Android Security Bulletin (2015-2020)  
-      https://source.android.com/security/bulletin
+   - [Android Security Bulletin (2015-2020)](https://source.android.com/security/bulletin)
       
-   - checkm8: an unpatchable bootrom exploit for hundreds of millions of iOS devices (2019)  
-      https://twitter.com/axi0mX/status/1177542201670168576
+   - [checkm8: an unpatchable bootrom exploit for hundreds of millions of iOS devices (2019)](https://twitter.com/axi0mX/status/1177542201670168576)
       
-   - Opening Pandora’s Box through ATFuzzer: Dynamic Analysis of AT Interface for Android Smartphones (2019)  
-      https://github.com/Imtiazkarimik23/ATFuzzer
+   - [Opening Pandora’s Box through ATFuzzer: Dynamic Analysis of AT Interface for Android Smartphones (2019)](https://github.com/Imtiazkarimik23/ATFuzzer)
       
    - Android: directory traversal over USB via injection in blkid output (2018)  
       https://www.exploit-db.com/exploits/45192  
       https://bugs.chromium.org/p/project-zero/issues/detail?id=1583
       
-   - OATmeal on the Universal Cereal Bus: Exploiting Android phones over USB (2018)  
-      https://googleprojectzero.blogspot.com/2018/09/oatmeal-on-universal-cereal-bus.html
+   - [OATmeal on the Universal Cereal Bus: Exploiting Android phones over USB (2018)](https://googleprojectzero.blogspot.com/2018/09/oatmeal-on-universal-cereal-bus.html)
       
-   - ATtention Spanned: Comprehensive Vulnerability Analysis ofAT Commands Within the Android Ecosystem (2018)  
-      https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-tian.pdf
+   - [ATtention Spanned: Comprehensive Vulnerability Analysis ofAT Commands Within the Android Ecosystem (2018)](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-tian.pdf)
       
-   - MTPwn (2017)  
-      https://github.com/smeso/MTPwn
+   - [MTPwn (2017)](https://github.com/smeso/MTPwn)
       
-   - Exploring USB Connection Vulnerabilities on Android Devices: Breaches using the Android Debug Bridge (2017)  
-      https://www.scitepress.org/Papers/2017/64759/64759.pdf
+   - [Exploring USB Connection Vulnerabilities on Android Devices: Breaches using the Android Debug Bridge (2017)](https://www.scitepress.org/Papers/2017/64759/64759.pdf)
       
-   - Google Nexus 6 f_usbnet Kernel Uninitialized Memory Leak Over USB (2016)  
-      https://exchange.xforce.ibmcloud.com/collection/Google-Nexus-6-f_usbnet-Kernel-Uninitialized-Memory-Leak-Over-USB-c123bbfb8ef3c70a0cd4c0172d54b0d0
+   - [Google Nexus 6 f_usbnet Kernel Uninitialized Memory Leak Over USB (2016)](https://exchange.xforce.ibmcloud.com/collection/Google-Nexus-6-f_usbnet-Kernel-Uninitialized-Memory-Leak-Over-USB-c123bbfb8ef3c70a0cd4c0172d54b0d0)
       
-   - Attacking Nexus 6 & 6P Custom Bootmodes (2016)  
-      https://exchange.xforce.ibmcloud.com/collection/Attacking-Nexus-6-and-6P-Custom-Bootmodes-5985d26456a31dd4d21a7d6ee065bb1b
+   - [Attacking Nexus 6 & 6P Custom Bootmodes (2016)](https://exchange.xforce.ibmcloud.com/collection/Attacking-Nexus-6-and-6P-Custom-Bootmodes-5985d26456a31dd4d21a7d6ee065bb1b)
       
-   - DualToy: New Windows Trojan Sideloads Risky Apps to Android and iOS Devices (2016)  
-      https://unit42.paloaltonetworks.com/dualtoy-new-windows-trojan-sideloads-risky-apps-to-android-and-ios-devices/
+   - [DualToy: New Windows Trojan Sideloads Risky Apps to Android and iOS Devices (2016)](https://unit42.paloaltonetworks.com/dualtoy-new-windows-trojan-sideloads-risky-apps-to-android-and-ios-devices/)
       
    - USB connection vulnerabilities on Android smartphones: default and vendors’ customizations (2014)  
 	https://www.researchgate.net/profile/Manuel_Eduardo_Correia/publication/264003931_USB_Connection_Vulnerabilities_on_Android_Smartphones_Default_and_Vendors'_Customizations/links/544f6e8e0cf29473161c3a15/USB-Connection-Vulnerabilities-on-Android-Smartphones-Default-and-Vendors-Customizations.pdf
       https://repositorio-aberto.up.pt/bitstream/10216/76109/2/32399.pdf
       
-   - Android 4.4.2 Secure USB Debugging Bypass (2014)  
-      https://labs.f-secure.com/advisories/android-4-4-2-secure-usb-debugging-bypass/
+   - [Android 4.4.2 Secure USB Debugging Bypass (2014)](https://labs.f-secure.com/advisories/android-4-4-2-secure-usb-debugging-bypass/)
       
-   - Mactans Injecting Malware into iOS Devices via Malicious Chargers (2013)  
-      https://media.blackhat.com/us-13/US-13-Lau-Mactans-Injecting-Malware-into-iOS-Devices-via-Malicious-Chargers-WP.pdf
+   - [Mactans Injecting Malware into iOS Devices via Malicious Chargers (2013)](https://media.blackhat.com/us-13/US-13-Lau-Mactans-Injecting-Malware-into-iOS-Devices-via-Malicious-Chargers-WP.pdf)
       
-   - Exploiting Smart-Phone USB Connectivity For Fun And Profit (2011)  
-      https://media.blackhat.com/bh-dc-11/Stavrou-Wang/BlackHat_DC_2011_Stavrou_Zhaohui_USB_exploits-Slides.pdf
+  - [Exploiting Smart-Phone USB Connectivity For Fun And Profit (2011)](https://media.blackhat.com/bh-dc-11/Stavrou-Wang/BlackHat_DC_2011_Stavrou_Zhaohui_USB_exploits-Slides.pdf)
+  - [Juice Jacking](https://en.wikipedia.org/wiki/Juice_jacking)
       
 #### 7.2 [CPU Vulnerabilities](https://github.com/houjingyi233/CPU-vulnerability-collections#cpu-vulnerability-collections)
+
+#### 7.3 Visitor Managing Systems vulnerabilities and links:
+  
+   - Lobby Track Desktop (Jolly Technologies)
+        [CVE-2018-17482 Lobby Track Desktop visitor records information disclosure](https://exchange.xforce.ibmcloud.com/vulnerabilities/149642)
+        [CVE-2018-17483 Lobby Track Desktop Driver’s License number information disclosure](https://exchange.xforce.ibmcloud.com/vulnerabilities/149643)
+        [CVE-2018-17484 Lobby Track Desktop database information disclosure](https://exchange.xforce.ibmcloud.com/vulnerabilities/149644)
+        [CVE-2018-17485 Lobby Track Desktop default account](https://exchange.xforce.ibmcloud.com/vulnerabilities/149645)
+        [CVE-2018-17486 Lobby Track Desktop visitor records security bypass](https://exchange.xforce.ibmcloud.com/vulnerabilities/149646)
+        [CVE-2018-17487 Lobby Track Desktop kiosk breakout privilege escalation](https://exchange.xforce.ibmcloud.com/vulnerabilities/149647)
+        [CVE-2018-17488 Lobby Track Desktop kiosk breakout privilege escalation](https://exchange.xforce.ibmcloud.com/vulnerabilities/149648)
+   - EasyLobby Solo (HID Global)
+        [CVE-2018-17489 EasyLobby Solo social security number information disclosure](https://exchange.xforce.ibmcloud.com/vulnerabilities/149649)
+        [CVE-2018-17490 EasyLobby Solo task manager denial of service](https://exchange.xforce.ibmcloud.com/vulnerabilities/149650)
+        [CVE-2018-17491 EasyLobby Solo program privilege escalation](https://exchange.xforce.ibmcloud.com/vulnerabilities/149651)
+        [CVE-2018-17492 EasyLobby Solo default account](https://exchange.xforce.ibmcloud.com/vulnerabilities/149652)
+    - eVisitorPass (Threshold Security)
+        [CVE-2018-17493 eVisitorPass Fullscreen button breakout privilege escalation](https://exchange.xforce.ibmcloud.com/vulnerabilities/149653)
+        [CVE-2018-17494 eVisitorPass Start Menu breakout privilege escalation](https://exchange.xforce.ibmcloud.com/vulnerabilities/149654)
+        [CVE-2018-17495 eVisitorPass Help Dialog privilege escalation](https://exchange.xforce.ibmcloud.com/vulnerabilities/149655)
+        [CVE-2018-17496 eVisitorPass kiosk privilege escalation](https://exchange.xforce.ibmcloud.com/vulnerabilities/149656)
+        [CVE-2018-17497 eVisitorPass admin credentials default account](https://exchange.xforce.ibmcloud.com/vulnerabilities/149657)
+    - Envoy Passport (Envoy)
+        [CVE-2018-17499 Envoy Passport for Android and Envoy Passport for iPhone API key information disclosure](https://exchange.xforce.ibmcloud.com/vulnerabilities/149659)
+        [CVE-2018-17500 Envoy Passport for Android and Envoy Passport for iPhone OAuth Creds information disclosure](https://exchange.xforce.ibmcloud.com/vulnerabilities/149660)
+    - The Receptionist (The Receptionist)
+        [CVE-2018-17502 The Receptionist for iPad contacts information disclosure](https://exchange.xforce.ibmcloud.com/vulnerabilities/149662)
+    - [Brucon 2009: Rage Against The Kiosk](https://www.youtube.com/watch?v=6rNg1eh5qKw)
+    - [DEF CON 19 - Paul Craig - Internet Kiosk Terminals : The Redux](https://www.youtube.com/watch?v=LttwrHrLXoA)
+    - [Smart City Security - Touchscreen Kiosks Get Hacked](https://www.iotforall.com/smart-city-security/)
+    - [Kiosk Hacking: 8 Tips to Harden Your Kiosk Security](https://medium.com/@redswimmer/kiosk-hacking-8-tips-to-improve-your-kiosk-security-e4214127639c)
