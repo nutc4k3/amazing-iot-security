@@ -83,8 +83,8 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
    - [Opening Pandora’s Box through ATFuzzer: Dynamic Analysis of AT Interface for Android Smartphones (2019)](https://github.com/Imtiazkarimik23/ATFuzzer)
       
    - Android: directory traversal over USB via injection in blkid output (2018)  
-      https://www.exploit-db.com/exploits/45192  
-      https://bugs.chromium.org/p/project-zero/issues/detail?id=1583
+      - https://www.exploit-db.com/exploits/45192  
+      - https://bugs.chromium.org/p/project-zero/issues/detail?id=1583
       
    - [OATmeal on the Universal Cereal Bus: Exploiting Android phones over USB (2018)](https://googleprojectzero.blogspot.com/2018/09/oatmeal-on-universal-cereal-bus.html)
       
@@ -101,8 +101,8 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
    - [DualToy: New Windows Trojan Sideloads Risky Apps to Android and iOS Devices (2016)](https://unit42.paloaltonetworks.com/dualtoy-new-windows-trojan-sideloads-risky-apps-to-android-and-ios-devices/)
       
    - USB connection vulnerabilities on Android smartphones: default and vendors’ customizations (2014)  
-	https://www.researchgate.net/profile/Manuel_Eduardo_Correia/publication/264003931_USB_Connection_Vulnerabilities_on_Android_Smartphones_Default_and_Vendors'_Customizations/links/544f6e8e0cf29473161c3a15/USB-Connection-Vulnerabilities-on-Android-Smartphones-Default-and-Vendors-Customizations.pdf
-      https://repositorio-aberto.up.pt/bitstream/10216/76109/2/32399.pdf
+   		- https://www.researchgate.net/profile/Manuel_Eduardo_Correia/publication/264003931_USB_Connection_Vulnerabilities_on_Android_Smartphones_Default_and_Vendors'_Customizations/links/544f6e8e0cf29473161c3a15/USB-Connection-Vulnerabilities-on-Android-Smartphones-Default-and-Vendors-Customizations.pdf
+		- https://repositorio-aberto.up.pt/bitstream/10216/76109/2/32399.pdf
       
    - [Android 4.4.2 Secure USB Debugging Bypass (2014)](https://labs.f-secure.com/advisories/android-4-4-2-secure-usb-debugging-bypass/)
       
@@ -128,16 +128,16 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
         - [CVE-2018-17490 EasyLobby Solo task manager denial of service](https://exchange.xforce.ibmcloud.com/vulnerabilities/149650)
         - [CVE-2018-17491 EasyLobby Solo program privilege escalation](https://exchange.xforce.ibmcloud.com/vulnerabilities/149651)
         - [CVE-2018-17492 EasyLobby Solo default account](https://exchange.xforce.ibmcloud.com/vulnerabilities/149652)
-    - eVisitorPass (Threshold Security)
+   - eVisitorPass (Threshold Security)
         - [CVE-2018-17493 eVisitorPass Fullscreen button breakout privilege escalation](https://exchange.xforce.ibmcloud.com/vulnerabilities/149653)
         - [CVE-2018-17494 eVisitorPass Start Menu breakout privilege escalation](https://exchange.xforce.ibmcloud.com/vulnerabilities/149654)
         - [CVE-2018-17495 eVisitorPass Help Dialog privilege escalation](https://exchange.xforce.ibmcloud.com/vulnerabilities/149655)
         - [CVE-2018-17496 eVisitorPass kiosk privilege escalation](https://exchange.xforce.ibmcloud.com/vulnerabilities/149656)
         - [CVE-2018-17497 eVisitorPass admin credentials default account](https://exchange.xforce.ibmcloud.com/vulnerabilities/149657)
-    - Envoy Passport (Envoy)
+   - Envoy Passport (Envoy)
         - [CVE-2018-17499 Envoy Passport for Android and Envoy Passport for iPhone API key information disclosure](https://exchange.xforce.ibmcloud.com/vulnerabilities/149659)
         - [CVE-2018-17500 Envoy Passport for Android and Envoy Passport for iPhone OAuth Creds information disclosure](https://exchange.xforce.ibmcloud.com/vulnerabilities/149660)
-    - The Receptionist (The Receptionist)
+   - The Receptionist (The Receptionist)
        	- [CVE-2018-17502 The Receptionist for iPad contacts information disclosure](https://exchange.xforce.ibmcloud.com/vulnerabilities/149662)
     - [Brucon 2009: Rage Against The Kiosk](https://www.youtube.com/watch?v=6rNg1eh5qKw)
     - [DEF CON 19 - Paul Craig - Internet Kiosk Terminals : The Redux](https://www.youtube.com/watch?v=LttwrHrLXoA)
