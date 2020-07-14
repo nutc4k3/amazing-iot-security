@@ -41,6 +41,7 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
    - [PCB-RE: Real-World Examples](https://www.amazon.com/gp/product/1797999958?pf_rd_p=1581d9f4-062f-453c-b69e-0f3e00ba2652&pf_rd_r=GVTKZY93AJVY6FAN99SK)
    
    - [Hacking the Xbox – An Introduction to Reverse Engineering](https://www.amazon.com.br/Hacking-Xbox-Introduction-Reverse-Engineering/dp/1593270291/ref=rtpb_7?_encoding=UTF8&pd_rd_i=1593270291&pd_rd_r=abf7a62f-9511-458d-bea9-d621e74c8a3e&pd_rd_w=RiJsD&pd_rd_wg=IQbm1&pf_rd_p=20778654-c31f-4d56-af83-5c7399c46f9a&pf_rd_r=5PC3ZRBHGWP0VTXEATZ5&psc=1&refRID=5PC3ZRBHGWP0VTXEATZ5)
+   
 
 ### 5. YouTube Channels
 
@@ -184,5 +185,7 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
    - [ATM Digital Attacks](https://www.youtube.com/watch?v=RqS5qURgH60)
    
    - [Jackson Thuraisamy & Jason Tran - Hacking POS PoS Systems](https://www.youtube.com/watch?v=-n7oJqmTUCo)
+   
+   - [Hacking Point of Sale: Payment Application Secrets, Threats, and Solutions](https://www.amazon.com.br/Hacking-Point-Sale-Application-Solutions/dp/1118810112)
   
   
