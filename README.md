@@ -146,7 +146,7 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
    - [Smart City Security - Touchscreen Kiosks Get Hacked](https://www.iotforall.com/smart-city-security/)
    - [Kiosk Hacking: 8 Tips to Harden Your Kiosk Security](https://medium.com/@redswimmer/kiosk-hacking-8-tips-to-improve-your-kiosk-security-e4214127639c)
 
-#### PoS Systems/ATM Vulnerabilities and links:
+#### 7.4 PoS Systems/ATM Vulnerabilities and links:
 
    - [WOOT '13 - Cloning Credit Cards: A Combined Pre-play and Downgrade Attack on EMV Contactless](https://www.youtube.com/watch?v=7G1yMuZHcpU)
    	- https://www.usenix.org/system/files/conference/woot13/woot13-roland.pdf
