@@ -74,10 +74,10 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
     
 ### 7. Other Topics:
 
-#### 7.1 Mobile Devices USB known vulns and links:
+#### 7.1 Mobile Devices USB Vulnerabilities and links:
     
    - [Android Security Bulletin (2015-2020)](https://source.android.com/security/bulletin)
-      
+   
    - [checkm8: an unpatchable bootrom exploit for hundreds of millions of iOS devices (2019)](https://twitter.com/axi0mX/status/1177542201670168576)
       
    - [Opening Pandora’s Box through ATFuzzer: Dynamic Analysis of AT Interface for Android Smartphones (2019)](https://github.com/Imtiazkarimik23/ATFuzzer)
@@ -110,10 +110,12 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
       
   - [Exploiting Smart-Phone USB Connectivity For Fun And Profit (2011)](https://media.blackhat.com/bh-dc-11/Stavrou-Wang/BlackHat_DC_2011_Stavrou_Zhaohui_USB_exploits-Slides.pdf)
   - [Juice Jacking](https://en.wikipedia.org/wiki/Juice_jacking)
+  - [DEF CON 17 - Rafael Dominiguez Vega - USB Attacks Fun with Plug and own](https://www.youtube.com/watch?v=-W0JLo4cQO0)
+  - [Seven Deadliest USB Attacks ](https://www.amazon.com.br/Seven-Deadliest-Attacks-Brian-Anderson/dp/1597495530)
       
 #### 7.2 [CPU Vulnerabilities](https://github.com/houjingyi233/CPU-vulnerability-collections#cpu-vulnerability-collections)
 
-#### 7.3 Visitor Managing Systems vulnerabilities and links:
+#### 7.3 Visitor Managing Systems Vulnerabilities and links:
   
    - Lobby Track Desktop (Jolly Technologies)
         - [CVE-2018-17482 Lobby Track Desktop visitor records information disclosure](https://exchange.xforce.ibmcloud.com/vulnerabilities/149642)
@@ -143,3 +145,44 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
    - [DEF CON 19 - Paul Craig - Internet Kiosk Terminals : The Redux](https://www.youtube.com/watch?v=LttwrHrLXoA)
    - [Smart City Security - Touchscreen Kiosks Get Hacked](https://www.iotforall.com/smart-city-security/)
    - [Kiosk Hacking: 8 Tips to Harden Your Kiosk Security](https://medium.com/@redswimmer/kiosk-hacking-8-tips-to-improve-your-kiosk-security-e4214127639c)
+
+#### PoS Systems/ATM Vulnerabilities and links:
+
+   - [WOOT '13 - Cloning Credit Cards: A Combined Pre-play and Downgrade Attack on EMV Contactless](https://www.youtube.com/watch?v=7G1yMuZHcpU)
+   	- https://www.usenix.org/system/files/conference/woot13/woot13-roland.pdf
+	
+   - [POS system hacking and defense](https://www.amazon.com/POS-system-hacking-defense-Korean/dp/899479722X)
+   
+   - [Get to the Money: Hacking POS and POP Systems](https://www.youtube.com/watch?v=UFVua21Sh6o)
+   
+   - [PinPadPwn - Nils & Rafael Dominguez Vega](https://www.youtube.com/watch?v=wY6Zxch0dJk)
+   
+   - [Skimmers](https://krebsonsecurity.com/tag/jonathan-spruill/)
+   
+   - [The Anatomy of a Breach](https://digital-forensics.sans.org/summit-archives/dfir14/Anatomy_of_a_Breach_The_Lifecycle_of_Cyber_Crime_Jonathan_Spruill.pdf)
+   
+   - [S09 Retail Store POS Penetration Testing](https://www.youtube.com/watch?v=dNyT8GksGXA)
+   
+   - [An overview of pentesting a Point of Sale device](https://medium.com/@mahendradhodi/an-overview-of-pentesting-a-point-of-sale-device-22ac0616357d)
+   
+   - [Shopshifting](https://media.ccc.de/v/32c3-7368-shopshifting#video)
+   
+   - [Symantec - Attacks on point-of-sales systems](https://docs.broadcom.com/doc/attacks-on-point-of-sale-systems-en)
+   
+   - [Point-Of-Sale Hacking - 2600Thailand](https://pt.slideshare.net/pprathan/pointofsale-hacking-2600thailand20)
+   
+   - [DEF CON 24 - Weston Hecker - Hacking Hotel Keys and Point of Sale Systems](https://www.youtube.com/watch?v=mV_0k9Fh590)
+   
+   - [Jackpotting ATM's (Automated Teller Machines) - Its easier than you might think - Alexander Forbes](https://www.youtube.com/watch?v=ThPJrPf7O2s)
+   
+   - [35C3 - Truly cardless: Jackpotting an ATM using auxiliary devices.](https://www.youtube.com/watch?v=vScV9Sx77rI)
+   
+   - [Barnaby Jack - Jackpotting Automated Teller Machines](https://www.youtube.com/watch?v=Ss_RWctTARU)
+   
+   - [DEFCON 19: Steal Everything, Kill Everyone, Cause Total Financial Ruin!](https://www.youtube.com/watch?v=JsVtHqICeKE)
+   
+   - [ATM Digital Attacks](https://www.youtube.com/watch?v=RqS5qURgH60)
+   
+   - [Jackson Thuraisamy & Jason Tran - Hacking POS PoS Systems](https://www.youtube.com/watch?v=-n7oJqmTUCo)
+  
+  
