@@ -1,7 +1,7 @@
 # amazing-iot-security 
 A list of lists involving IoT security in general 🇧🇷 🇺🇸 
 
-### 0. Certifications/Courses
+### Certifications/Courses
 
    - [Hardware Hacking, IoT Pentest e Red Team Gadgets](https://go.hotmart.com/B35469325D)
    - [Attify Certified IoT Pentester](https://www.attify.com/iot-security-pentesting)
