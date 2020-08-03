@@ -1,6 +1,11 @@
 # amazing-iot-security 
 A list of lists involving IoT security in general 🇧🇷 🇺🇸 
 
+### 0. Certifications/Courses
+
+   - [Hardware Hacking, IoT Pentest e Red Team Gadgets](https://go.hotmart.com/B35469325D)
+   - [Attify Certified IoT Pentester](https://www.attify.com/iot-security-pentesting)
+
 ### 1. Blogs/Sites
 
    - https://medium.com/nutsaboutsec (my blog in portuguese :3)
@@ -13,6 +18,22 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
    - https://www.semecayounexploit.com/
    - https://owasp.org/www-project-embedded-application-security/
    - https://github.com/scriptingxss/embeddedappsec
+   - https://www.iotpentest.com/
+   - https://payatu.com/blog
+   - http://jcjc-dev.com/
+   - http://www.devttys0.com/
+   - https://www.rtl-sdr.com/
+   - https://keenlab.tencent.com/en/
+   - https://courk.cc/
+   - https://iotsecuritywiki.com/
+   - https://iotmyway.wordpress.com/
+   - http://blog.k3170makan.com/
+   - https://blog.tclaverie.eu/
+   - http://www.sp3ctr3.me/hardware-security-resources/
+   - https://www.0x42424242.in/
+   - https://dantheiotman.com/
+   - https://blog.danman.eu/
+   - https://quentinkaiser.be/
 
 ### 2. Lists
 
@@ -54,6 +75,14 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
    - [Seytonic](https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA)
 
    - [Defcon](https://www.youtube.com/user/DEFCONConference)
+   
+   - [ISE](https://www.youtube.com/channel/UCRwxJsNzk5DtJpNWH9yICTg)
+   
+   - [IoT Village](https://www.youtube.com/channel/UCFlvhVUGqpHbpLbHgMgI6tA)
+   
+#### 5.1 Playlists:
+
+   - [IoT Village Virtual Event 1.0](https://www.youtube.com/playlist?list=PLAqVdpZRarAyl7byzx9CH-_asuAb_kl1I)
     
 ### 6. Helpful Tools/Ticks:
 
