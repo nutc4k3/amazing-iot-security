@@ -83,6 +83,7 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
 #### 5.1 Playlists:
 
    - [IoT Village Virtual Event 1.0](https://www.youtube.com/playlist?list=PLAqVdpZRarAyl7byzx9CH-_asuAb_kl1I)
+   - [- [Riscure Embedded Hardware CTF](https://www.youtube.com/playlist?list=PLhixgUqwRTjwNaT40TqIIagv3b4_bfB7M)
     
 ### 6. Helpful Tools/Ticks:
 
@@ -217,4 +218,11 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
    
    - [Hacking Point of Sale: Payment Application Secrets, Threats, and Solutions](https://www.amazon.com.br/Hacking-Point-Sale-Application-Solutions/dp/1118810112)
   
-  
+  #### 7.5 CTF Writeups
+   - [Insomni’hack 2018 – S3curLock](https://phil242.wordpress.com/2018/03/29/insomnihack-2018-write-up-s3curlock-level-1-2-3/)
+   - [Riscure Embedded Hardware CTF](https://old.liveoverflow.com/rhme/index.html)
+   - [Rhme 2017](https://github.com/Riscure/Rhme-2017)
+   - [Rhme 2016](https://github.com/Riscure/Rhme-2016)
+   - [Rhme 2015](https://github.com/Riscure/RHme-2015)
+   - [GoogleCTF 2019 - Flagrom](https://advancedpersistentjest.com/2019/06/25/writeup-flagrom-google-ctf/)
+   - [Ph0wn 2018](http://sebastien.andrivet.com/en/posts/ph0wn-my-first-iot-ctf-part-1/)
