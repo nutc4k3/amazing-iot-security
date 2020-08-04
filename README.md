@@ -226,3 +226,6 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
    - [Rhme 2015](https://github.com/Riscure/RHme-2015)
    - [GoogleCTF 2019 - Flagrom](https://advancedpersistentjest.com/2019/06/25/writeup-flagrom-google-ctf/)
    - [Ph0wn 2018](http://sebastien.andrivet.com/en/posts/ph0wn-my-first-iot-ctf-part-1/)
+   - [GoogleCTF 2017 - Slot Machine](https://blog.bushwhackers.ru/slot-machine-write-up-google-ctf-2017-finals/)
+   - [CONFidenceCTF 2020 - GPIO tap](https://tcode2k16.github.io/blog/posts/2020-03-15-confidence-ctf/)
+   - [FlareOn 4](https://blog.attify.com/flare-4-ctf-write-part-4/)
