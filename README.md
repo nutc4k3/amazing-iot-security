@@ -34,6 +34,7 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
    - https://dantheiotman.com/
    - https://blog.danman.eu/
    - https://quentinkaiser.be/
+   - https://blog.grimm-co.com/
 
 ### 2. Lists
 
