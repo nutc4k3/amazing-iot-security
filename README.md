@@ -39,6 +39,7 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
 
    - https://github.com/V33RU/IoTSecurity101
    - https://github.com/nebgnahz/awesome-iot-hacks
+   - https://github.com/fkie-cad/awesome-embedded-and-iot-security
 
 ### 3. Groups
 
