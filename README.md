@@ -227,8 +227,7 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
    - [Rhme](https://github.com/Riscure/Rhme-2017)
    - [DVAR](https://www.vulnhub.com/entry/damn-vulnerable-arm-router-dvar-tinysploitarm,224/)
    - [CTF Time](https://ctftime.org/) 
-   - [Hack@SEC](https://hackatevent.org/hacksec21/)
-   - [Hack@DAC](https://hackat.events/dac20/)
+   - [Hack@DAC / Hack@SEC](https://hackatevent.org)
    - [Defcon CTF](https://oooverflow.io/)
    - [Hack-A-Sat](https://www.hackasat.com/)
    
