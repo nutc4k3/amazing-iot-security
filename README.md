@@ -85,7 +85,7 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
 #### 5.1 Playlists:
 
    - [IoT Village Virtual Event 1.0](https://www.youtube.com/playlist?list=PLAqVdpZRarAyl7byzx9CH-_asuAb_kl1I)
-   - [- [Riscure Embedded Hardware CTF](https://www.youtube.com/playlist?list=PLhixgUqwRTjwNaT40TqIIagv3b4_bfB7M)
+   - [Riscure Embedded Hardware CTF](https://www.youtube.com/playlist?list=PLhixgUqwRTjwNaT40TqIIagv3b4_bfB7M)
     
 ### 6. Helpful Tools/Ticks:
 
@@ -219,8 +219,20 @@ A list of lists involving IoT security in general 🇧🇷 🇺🇸
    - [Jackson Thuraisamy & Jason Tran - Hacking POS PoS Systems](https://www.youtube.com/watch?v=-n7oJqmTUCo)
    
    - [Hacking Point of Sale: Payment Application Secrets, Threats, and Solutions](https://www.amazon.com.br/Hacking-Point-Sale-Application-Solutions/dp/1118810112)
-  
-  #### 7.5 CTF Writeups
+ 
+ #### 7.5 CTF Platforms and Challenges
+   - [Microcorruption](https://microcorruption.com/login)
+   - [HTB Hardware Challenges](https://www.hackthebox.eu/)
+   - [IoT Goat](https://github.com/OWASP/IoTGoat)
+   - [Rhme](https://github.com/Riscure/Rhme-2017)
+   - [DVAR](https://www.vulnhub.com/entry/damn-vulnerable-arm-router-dvar-tinysploitarm,224/)
+   - [CTF Time](https://ctftime.org/) 
+   - [Hack@SEC](https://hackatevent.org/hacksec21/)
+   - [Hack@DAC](https://hackat.events/dac20/)
+   - [Defcon CTF](https://oooverflow.io/)
+   - [Hack-A-Sat](https://www.hackasat.com/)
+   
+  #### 7.6 CTF Writeups
    - [Insomni’hack 2018 – S3curLock](https://phil242.wordpress.com/2018/03/29/insomnihack-2018-write-up-s3curlock-level-1-2-3/)
    - [Riscure Embedded Hardware CTF](https://old.liveoverflow.com/rhme/index.html)
    - [Rhme 2017](https://github.com/Riscure/Rhme-2017)
